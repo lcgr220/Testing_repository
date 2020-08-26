@@ -14,4 +14,3 @@ console.log(persona.nombre + persona.edad);
     var elems = document.querySelectorAll('.carousel');
     var instances = M.Carousel.init(elems, options);
   });
-
